@@ -1,0 +1,25 @@
+{
+  "name": "simple-game",
+  "version": "1.0.0",
+  "description": "Simple Phaser exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas050685/simple-game.git"
+  },
+  "keywords": [
+    "phaser",
+    "javascript",
+    "exercise"
+  ],
+  "author": "Lucas Machado Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucas050685/simple-game/issues"
+  },
+  "homepage": "https://github.com/lucas050685/simple-game#readme"
+}
